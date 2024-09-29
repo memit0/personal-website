@@ -4,7 +4,7 @@ export default function Page() {
   return (
     <section>
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
-        Mehmet Battal's Commonplace
+        Mehmet Battal
       </h1>
       <p className="mb-4">
         {`I'm a math & cs major @ boston university. I'm fascinated by a lot of different topics, such as 
